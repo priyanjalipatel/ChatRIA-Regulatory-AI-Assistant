@@ -1,0 +1,25 @@
+# Core LangChain
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# OpenAI integration
+langchain-openai
+openai
+
+# Vector database
+faiss-cpu
+
+# PDF loading
+pypdf
+
+# Environment variables
+python-dotenv
+
+# Optional utilities
+tiktoken
+
+# Type support
+typing-extensions
+streamlit
